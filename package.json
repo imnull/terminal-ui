@@ -1,0 +1,14 @@
+{
+  "name": "ter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "single-line-log": "^1.1.2"
+  }
+}
